@@ -3,7 +3,6 @@
 
 Recognize The faces And Take Automatic Attendance. ✨
 
-![Alt text](demo/Face-Recognition-Attendance-System-Logo.jpg?raw=true "Face-Recognition-Attendance-System")
 
 This project is a POC web application demonstrating the use of facial recognition for marking attendance. It is a web application that can be used by Institutions to manage attendance of its students.
 
