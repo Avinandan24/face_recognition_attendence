@@ -1,17 +1,17 @@
 
 # Face-Recognition-Attendance-System
 
-Recognize The faces And Take Automatic Attandance. ✨
+Recognize The faces And Take Automatic Attendance. ✨
 
 ![Alt text](demo/Face-Recognition-Attendance-System-Logo.jpg?raw=true "Face-Recognition-Attendance-System")
 
-This project is a POC web application demonstrating the use of facial recognition for marking attendance. It is a web application that can be used by the company to manage attendance of its employees.
+This project is a POC web application demonstrating the use of facial recognition for marking attendance. It is a web application that can be used by Institutions to manage attendance of its students.
 
 ## Functionality Supported
 
-- Register new employees.
-- Add employee photos.
-- View attendance reports of all employees. Attendance can be filtered by date or employee.
+- Register new students.
+- Add student photos.
+- View attendance reports of all employees. Attendance can be filtered by date or student.
 
 
 
@@ -39,25 +39,6 @@ This project is a POC web application demonstrating the use of facial recognitio
 
 - using a Linear SVM (scikit-learn)
 - The application was tested on data from 20 Person
-
-
-## Screenshots
-
-### Simple App UI
-
-![Alt text](https://github.com/sonu275981/Face-Recognition-Attendance-System/blob/9351f601b8f0d0ebda517dc815f91cb1d4a119f6/demo/XI%20-jinping.png?raw=true "App UI")
-
-### Image Recognition of my Self
-
-![Alt text](https://github.com/sonu275981/Face-Recognition-Attendance-System/blob/9351f601b8f0d0ebda517dc815f91cb1d4a119f6/demo/camera1.png?raw=true "App UI")
-
-### Image Recognition of XI-jinping
-
-![Alt text](https://github.com/sonu275981/Face-Recognition-Attendance-System/blob/9351f601b8f0d0ebda517dc815f91cb1d4a119f6/demo/camera2.png?raw=true "App UI")
-
-### Attendance in tabular format 
-
-![Alt text](https://github.com/sonu275981/Face-Recognition-Attendance-System/blob/9351f601b8f0d0ebda517dc815f91cb1d4a119f6/demo/2021-11-15%20(5).png?raw=true "App UI")
 
 
 ## Scope of the project 🚀
